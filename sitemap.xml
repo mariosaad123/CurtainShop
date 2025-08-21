@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://mariosaad123.github.io/CurtainShop/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://mariosaad123.github.io/CurtainShop/products.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://mariosaad123.github.io/CurtainShop/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+</urlset>
